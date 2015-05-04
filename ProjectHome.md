@@ -1,0 +1,1 @@
+The idea of flexevents is to provide a extremely simple framework to eBS program developers (means: plsql) to produce your standard code that is extremely flexible and extensible without necessarily exposing details of your code or leave your basic control over the execution.
